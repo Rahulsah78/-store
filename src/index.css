@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p::selection{
+  color: white;
+  background-color: #EF4444;
+}
+h2::selection{
+  color: white;
+  background-color: #EF4444;
+}
+span::selection{
+  color: white;
+  background-color: #EF4444;
+}
+h1::selection{
+  color: white;
+  background-color: #EF4444;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }

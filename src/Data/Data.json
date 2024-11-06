@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "img": "/s1.webp",
+    "title": "Nike Shoe",
+    "price": 55,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  },
+  {
+    "id": 2,
+    "img": "/ll2.png",
+    "title": "Lehenga",
+    "price": 75,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  },
+  {
+    "id": 3,
+    "img": "/p1.png",
+    "title": "Men's Shirt",
+    "price": 75,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  },
+  {
+    "id": 4,
+    "img": "/s2.webp",
+    "title": "Nike Shoe",
+    "price": 55,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  },
+  {
+    "id": 5,
+    "img": "/ll3.png",
+    "title": "Lehenga",
+    "price": 75,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  },
+  {
+    "id": 6,
+    "img": "/p2.png",
+    "title": "Men's Shirt",
+    "price": 75,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  },{
+    "id": 7,
+    "img": "/s3.webp",
+    "title": "Nike Shoe",
+    "price": 55,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  },
+  
+  {
+    "id": 8,
+    "img": "/p8.png",
+    "title": "Men's Shirt",
+    "price": 75,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  },{
+    "id": 9,
+    "img": "/ll1.png",
+    "title": "Lehenga",
+    "price": 55,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae sapiente delectus animi soluta fugiat alias voluptatem beatae aperiam, natus optio.read more ..."
+  }
+]
