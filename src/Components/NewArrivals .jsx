@@ -11,7 +11,7 @@ const NewArrivals = () => {
                    
 
                     {/* Text Section */}
-                    <div className="flex flex-col  items-center justify-center h-full w-full md:w-1/2 p-5">
+                    <div className="flex flex-col items-center justify-center h-full w-full md:w-1/2 p-5">
                         <motion.p
                             variants={SlideUp(0.4)}
                             initial="initial"
@@ -48,11 +48,11 @@ const NewArrivals = () => {
                             </Link>
                         </motion.div>
                     </div>
-                    <div className="h-full mt-10 w-full md:w-1/2 overflow-hidden flex items-center justify-center">
+                    <div className="h-full w-full md:w-1/2 overflow-hidden flex items-center justify-center">
                         <img
                             src="https://preview.colorlib.com/theme/dealers/images/model_5.png"
                             alt=""
-                            className="object-contain h-[95vw] w-60 md:h-full md:w-full"
+                            className="object-contain h-[75vw] w-60 md:h-full md:w-full"
                         />
                     </div>
                 </div>
